@@ -127,7 +127,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: "/Downloads/Pete Stanley%20-%20Resume%20-%20DevOps%20Engineer%20-%20Public.pdf"
       download: true
       newPage: false
     socialLinks:
