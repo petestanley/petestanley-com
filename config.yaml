@@ -136,8 +136,8 @@ params:
         #   url: https://example.com
         - icon: fab fa-linkedin
           url: https://www.linkedin.com/in/automatepete/
-        - icon: fab fa-twitter
-          url: https://twitter.com/automatepete
+        - icon: fab fa-mastodon
+          url: https://techhub.social/@automatepete
       # customIcons:
       #   - icon: /fav.png
       #     url: "https://example.com"
